@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+border: 10px solid #f0ad4e ;
+}
+
+
+.heading {
+width: 100%;
+margin: 0;
+font-size: 25px;
+}
+
+#copyright_footer {
+    bottom: 10;
+    width: 98.8%;
+    position: fixed;
+    font-size: 20px;
+    background-color: #286090;
+    color: aliceblue;
+    line-height: 2;
+}
+
+
+canvas {
+    border: 3px solid white;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px white;
+}
